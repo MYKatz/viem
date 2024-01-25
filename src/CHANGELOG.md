@@ -1,5 +1,11 @@
 # viem
 
+## 2.5.1
+
+### Patch Changes
+
+- [#1737](https://github.com/wevm/viem/pull/1737) [`9fb40ea88290464dc0e3ea2796dd0608a5ce49ae`](https://github.com/wevm/viem/commit/9fb40ea88290464dc0e3ea2796dd0608a5ce49ae) Thanks [@ibwei](https://github.com/ibwei)! - Added KCC Mainnet chain.
+
 ## 2.5.0
 
 ### Minor Changes
